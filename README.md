@@ -1,2 +1,1 @@
-# Jojo
-Change Log
+# Change Log
